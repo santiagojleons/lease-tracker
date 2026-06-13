@@ -1,3 +1,5 @@
+https://santiagojleons.github.io/lease-tracker/
+
 # 🚗 Lease Mileage Tracker
 
 A mobile-first, single-file web app to track your car lease mileage in real time — no backend, no install, no account needed. Built with vanilla JavaScript and stores all data locally on your device using `localStorage`.
